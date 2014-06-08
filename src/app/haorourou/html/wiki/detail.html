@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
     <head>
-    <link rel="stylesheet" href="http://static.haorourou.com/app/haorourou/style/detail.css">
+    <link rel="stylesheet" href="http://static.haorourou.com/app/haorourou/style/wiki/detail.css">
     </head>
 <body>
     <header class="clearfix">
         <div class="container">
             <div class="row">
                 <div class="col-2">
-                    <img data-src="holder.js/180x60/text:haorourou" class="logo">
+                    <img src="/app/haorourou/image/logo.jpg" class="logo">
                 </div>
                 <div class="col-5">
                     <nav class="row">
@@ -26,59 +26,87 @@
 
                 </div>
                 <div class="col-1">
-                    <img class="avatar" src="holder.js/45x45/text:avatar" alt="">
+                    <img class="avatar" data-src="holder.js/35x35/text:avatar" alt="">
                 </div>
             </div>
         </div>
     </header>
-
-    <div class="container main">
+    <div class="container">
         <div class="row">
             <div class="col-8">
-                <section class="img">
-                    <img src="holder.js/780x500/sky/text:haorourou" alt="">
-                </section>
-                <section class="comment">
-
-                </section>
+                <div class="content">
+                    <div class="title clearfix">
+                        <h1>虹之玉<small>Sedum rubrotinctum</small></h1>
+                        <div class="extra-data">
+                            <span class="fav">1234</span>
+                            <span class="share">123</span>
+                        </div>
+                        <div class="labels">
+                            <span class="label">景天科</span>
+                            <span class="label">景天属</span>
+                            <span class="label">夏型种</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-5">
+                            <div class="info">
+                                <section>
+                                    <p class="description">
+                                        耐寒，也不怕烈日暴晒，其叶色越晒越红，因此盛夏不必遮光，而在半阴处生长的植株叶色翠绿光亮。有时一盆虹之玉由于接受阳光照射的强弱及时间的不同，叶色会有红有绿；新叶因光照时间较短，往往顶端为红色，其他部分仍为绿色。喜温暖及昼夜温差明显的环境。对温度的适应性较强，在10℃至28℃之间均可良好生长。
+                                    </p>
+                                </section>
+                                <section>
+                                    <h2>繁殖方式</h2>
+                                    <p>
+                                        <span style="margin-right: 15px">叶插</span>
+                                        <span style="margin-right: 15px">播种</span>
+                                        <span style="margin-right: 15px">分株</span>
+                                    </p>
+                                </section>
+                                <section>
+                                    <h2>易活度</h2>
+                                    <p>
+                                        很容易活
+                                    </p>
+                                </section>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="img">
+                                <img data-src="holder.js/215x160/text:avatar" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="col-4">
-                <section class="user-info">
-                    <div class="row">
-                        <div class="col-1">
-                            <img src="holder.js/60x60/text:avatar" class="avatar" alt="">
-                        </div>
-                        <div class="col-2">
-                            <span class="username">j1anb1n</span>
-                        </div>
-                        <div class="col-1">
-                            <a href="javascript: void(0);" class="btn follow-btn">
-                                <i class="icon icon-plus"></i>加关注
-                            </a>
-                        </div>
-                    </div>
+                <section class="relate-section">
+                    <h4>同科推荐</h4>
+                    <ul class="relate-list clearfix">
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                    </ul>
                 </section>
-                <section class="board">
-                    <div class="wraper">
-                        <div
-                            class="pins"
-                            id="pins"
-                            data-widget="app/haorourou/widget/pin.js"
-                            data-col-width="110"
-                            data-margin="0"
-                        >
-
-                        </div>
-                    </div>
+                <section class="relate-section">
+                    <h4>店家推荐</h4>
+                    <ul class="relate-list clearfix">
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                        <li><img data-src="holder.js/130x80/text:avatar" alt=""><h5>虹之玉</h5></li>
+                    </ul>
                 </section>
             </div>
         </div>
     </div>
-
     <script src="http://static.haorourou.com/com/desktop/g.js"></script>
     <script>
 
-    G.use('app/haorourou/page/detail.js', function (page) {
+    G.use('app/haorourou/page/base.js', function (page) {
         page.init();
     });
     </script>
