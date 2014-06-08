@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/config.js"
+    ],
+    "files": [
+        "com/desktop/config.js",
+        "com/desktop/g.js"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/config.js": "JSHINT: \n0. Expected 'alias' to have an indentation at 1 instead at 5.[line: 3, char:5][ECODE: W015]\n1. Expected '}' to match '{' from line 1 and instead saw 'alias'.[line: 3, char:5][ECODE: E020]\n2. Missing semicolon.[line: 3, char:10][ECODE: W033]\n3. Expected '(end)' and instead saw ':'.[line: 3, char:10][ECODE: W116]\n4. 'config' is defined but never used.[line: 1, char:11][ECODE: W098]"
+    }
+}

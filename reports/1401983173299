@@ -1,0 +1,13 @@
+{
+    "input": [
+        "app/haorourou/page/wiki/list.js"
+    ],
+    "files": [
+        "app/haorourou/page/wiki/list.js"
+    ],
+    "output": [
+        "app/haorourou/page/wiki/list.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

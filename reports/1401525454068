@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'pins' is defined but never used.[line: 11, char:45][ECODE: W098]\n1. 'config' is defined but never used.[line: 33, char:27][ECODE: W098]"
+    }
+}

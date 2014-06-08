@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'isLargeScreen' is defined but never used.[line: 9, char:26][ECODE: W098]"
+    }
+}

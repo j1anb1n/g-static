@@ -1,0 +1,25 @@
+{
+    "input": [
+        "app/haorourou/style/wiki/list.less"
+    ],
+    "files": [
+        "app/haorourou/style/wiki/list.less"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/style/wiki/list.less": {
+            "type": "Parse",
+            "message": "Unrecognised input",
+            "filename": "/Users/chenjianbin/developer/g-static/src/app/haorourou/style/wiki/list.less",
+            "index": 96,
+            "line": 5,
+            "callLine": null,
+            "column": 4,
+            "extract": [
+                "    border: 1px solid @line-color-normal;",
+                "    margin: 0 -1px",
+                "    .filter-title {"
+            ]
+        }
+    }
+}

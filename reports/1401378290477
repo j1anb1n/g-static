@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/style/less/fixed-width.less"
+    ],
+    "files": [
+        "com/desktop/style/less/fixed-width.less"
+    ],
+    "output": [
+        "g-version.json"
+    ],
+    "errors": {}
+}

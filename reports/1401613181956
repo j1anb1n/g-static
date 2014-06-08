@@ -1,0 +1,13 @@
+{
+    "input": [
+        "app/haorourou/template/detail/pin.tpl"
+    ],
+    "files": [
+        "app/haorourou/template/detail/pin.tpl"
+    ],
+    "output": [
+        "app/haorourou/template/detail/pin.tpl",
+        "g-version.json"
+    ],
+    "errors": {}
+}

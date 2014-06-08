@@ -1,0 +1,11 @@
+com/g/es5-safe.js
+com/g/json2.js
+com/g/boot.js
+com/g/config.js
+com/g/util.js
+com/g/deferred.js
+com/g/loader.js
+com/g/module.js
+com/g/loader/amd.js
+com/g/loader/css.js
+com/desktop/config.js

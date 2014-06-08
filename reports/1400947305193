@@ -1,0 +1,31 @@
+{
+    "input": [],
+    "files": [
+        "app/haorourou/html/index.html",
+        "com/desktop/config.js",
+        "com/desktop/g-config.json",
+        "com/desktop/g.js",
+        "com/desktop/lib/async/async.js",
+        "com/desktop/lib/jquery/jquery-1.11.1.js",
+        "com/desktop/lib/jquery/jquery-2.1.1.js",
+        "com/desktop/lib/underscore/underscore-1.6.0.js",
+        "com/g/boot.js",
+        "com/g/config.js",
+        "com/g/deferred.js",
+        "com/g/es5-safe.js",
+        "com/g/json2.js",
+        "com/g/loader.js",
+        "com/g/loader/amd.js",
+        "com/g/loader/css.js",
+        "com/g/module.js",
+        "com/g/util.js"
+    ],
+    "output": [
+        "app/haorourou/html/index.html",
+        "com/desktop/config.js",
+        "com/desktop/g-config.json"
+    ],
+    "errors": {
+        "com/desktop/g.js": "JSHINT: \n0. Missing semicolon.[line: 1, char:18][ECODE: W033]\n1. Missing semicolon.[line: 2, char:15][ECODE: W033]\n2. Missing semicolon.[line: 3, char:14][ECODE: W033]\n3. Missing semicolon.[line: 4, char:16][ECODE: W033]\n4. Missing semicolon.[line: 5, char:14][ECODE: W033]\n5. Missing semicolon.[line: 6, char:18][ECODE: W033]\n6. Missing semicolon.[line: 7, char:16][ECODE: W033]\n7. Missing semicolon.[line: 8, char:16][ECODE: W033]\n8. Missing semicolon.[line: 9, char:20][ECODE: W033]\n9. Missing semicolon.[line: 10, char:20][ECODE: W033]\n10. Missing semicolon.[line: 11, char:22][ECODE: W033]\n11. 'com' is not defined.[line: 1, char:1][ECODE: W117]\n12. 'g' is not defined.[line: 1, char:5][ECODE: W117]\n13. 'es5' is not defined.[line: 1, char:7][ECODE: W117]\n14. 'safe' is not defined.[line: 1, char:11][ECODE: W117]\n15. 'com' is not defined.[line: 2, char:1][ECODE: W117]\n16. 'g' is not defined.[line: 2, char:5][ECODE: W117]\n17. 'json2' is not defined.[line: 2, char:7][ECODE: W117]\n18. 'com' is not defined.[line: 3, char:1][ECODE: W117]\n19. 'g' is not defined.[line: 3, char:5][ECODE: W117]\n20. 'boot' is not defined.[line: 3, char:7][ECODE: W117]\n21. 'com' is not defined.[line: 4, char:1][ECODE: W117]\n22. 'g' is not defined.[line: 4, char:5][ECODE: W117]\n23. 'config' is not defined.[line: 4, char:7][ECODE: W117]\n24. 'com' is not defined.[line: 5, char:1][ECODE: W117]\n25. 'g' is not defined.[line: 5, char:5][ECODE: W117]\n26. 'util' is not defined.[line: 5, char:7][ECODE: W117]\n27. 'com' is not defined.[line: 6, char:1][ECODE: W117]\n28. 'g' is not defined.[line: 6, char:5][ECODE: W117]\n29. 'deferred' is not defined.[line: 6, char:7][ECODE: W117]\n30. 'com' is not defined.[line: 7, char:1][ECODE: W117]\n31. 'g' is not defined.[line: 7, char:5][ECODE: W117]\n32. 'loader' is not defined.[line: 7, char:7][ECODE: W117]\n33. 'com' is not defined.[line: 8, char:1][ECODE: W117]\n34. 'g' is not defined.[line: 8, char:5][ECODE: W117]\n35. 'com' is not defined.[line: 9, char:1][ECODE: W117]\n36. 'g' is not defined.[line: 9, char:5][ECODE: W117]\n37. 'loader' is not defined.[line: 9, char:7][ECODE: W117]\n38. 'amd' is not defined.[line: 9, char:14][ECODE: W117]\n39. 'com' is not defined.[line: 10, char:1][ECODE: W117]\n40. 'g' is not defined.[line: 10, char:5][ECODE: W117]\n41. 'loader' is not defined.[line: 10, char:7][ECODE: W117]\n42. 'css' is not defined.[line: 10, char:14][ECODE: W117]\n43. 'com' is not defined.[line: 11, char:1][ECODE: W117]\n44. 'desktop' is not defined.[line: 11, char:5][ECODE: W117]\n45. 'config' is not defined.[line: 11, char:13][ECODE: W117]"
+    }
+}

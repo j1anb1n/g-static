@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected an identifier and instead saw ')'.[line: 38, char:17][ECODE: E030]\n1. Expected ')' to match '(' from line 38 and instead saw 'console'.[line: 39, char:13][ECODE: E020]\n2. Expected '{' and instead saw '.'.[line: 39, char:20][ECODE: W116]\n3. Expected an identifier and instead saw '.'.[line: 39, char:20][ECODE: E030]\n4. Missing semicolon.[line: 39, char:21][ECODE: W033]\n5. Expected 'log' to have an indentation at 13 instead at 21.[line: 39, char:21][ECODE: W015]\n6. 'log' is not defined.[line: 39, char:21][ECODE: W117]\n7. 'self' is defined but never used.[line: 31, char:17][ECODE: W098]"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected '{' and instead saw 'console'.[line: 39, char:13][ECODE: W116]\n1. Expected 'console' to have an indentation at 17 instead at 13.[line: 39, char:13][ECODE: W015]\n2. 'self' is defined but never used.[line: 31, char:17][ECODE: W098]"
+    }
+}

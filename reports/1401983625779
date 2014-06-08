@@ -1,0 +1,33 @@
+{
+    "input": [
+        "app/haorourou/style/vars.less"
+    ],
+    "files": [
+        "app/haorourou/style/base.less",
+        "app/haorourou/style/detail.less",
+        "app/haorourou/style/index.less",
+        "app/haorourou/style/vars.less",
+        "app/haorourou/style/wiki/list.less"
+    ],
+    "output": [
+        "app/haorourou/style/base.css",
+        "app/haorourou/style/detail.css",
+        "app/haorourou/style/index.css"
+    ],
+    "errors": {
+        "app/haorourou/style/wiki/list.less": {
+            "type": "Parse",
+            "message": "Unrecognised input",
+            "filename": "/Users/chenjianbin/developer/g-static/src/app/haorourou/style/wiki/list.less",
+            "index": 96,
+            "line": 5,
+            "callLine": null,
+            "column": 4,
+            "extract": [
+                "    border: 1px solid @line-color-normal;",
+                "    .filter-options {",
+                "        list-style: none;"
+            ]
+        }
+    }
+}

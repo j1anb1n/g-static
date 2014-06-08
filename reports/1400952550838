@@ -1,0 +1,25 @@
+{
+    "input": [
+        "app/haorourou/style/index.less"
+    ],
+    "files": [
+        "app/haorourou/style/index.less"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/style/index.less": {
+            "type": "Parse",
+            "message": "Unrecognised input",
+            "filename": "input",
+            "index": 245,
+            "line": 13,
+            "callLine": null,
+            "column": 4,
+            "extract": [
+                "",
+                "    .pic-info {",
+                "        border-bottm: 1px solid"
+            ]
+        }
+    }
+}

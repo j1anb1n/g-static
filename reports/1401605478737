@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected an identifier and instead saw '}'.[line: 86, char:5][ECODE: E030]\n1. Missing semicolon.[line: 86, char:6][ECODE: W033]\n2. Expected '}' to have an indentation at 5 instead at 1.[line: 87, char:1][ECODE: W015]\n3. Expected ')' to have an indentation at 1 instead at 2.[line: 87, char:2][ECODE: W015]\n4. Expected '}' to match '{' from line 29 and instead saw ')'.[line: 87, char:2][ECODE: E020]\n5. Expected ')' and instead saw ';'.[line: 87, char:3][ECODE: W116]\n6. Missing semicolon.[line: 87, char:4][ECODE: W033]\n7. 'config' is not defined.[line: 82, char:22][ECODE: W117]"
+    }
+}

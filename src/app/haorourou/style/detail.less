@@ -1,0 +1,48 @@
+@import (less) "com/desktop/style/normalize/normalize.css";
+@import (less) "app/haorourou/style/base.less";
+@import (less) "app/haorourou/style/vars.less";
+@import (less) "com/desktop/style/fontawesome/less/font-awesome.less";
+
+.container.main {
+    width: 1180px;
+}
+
+.board {
+    padding: 0;
+    background: #fff;
+
+    .wraper {
+        height: 360px;
+        padding: 0 20px;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        .pins {
+            position: relative;
+            margin: 0 -7px;
+        }
+    }
+}
+
+.pin {
+    width: 104px;
+    margin: 0 7px 10px 7px;
+    float: left;
+    position: absolute;
+}
+
+.comment {
+    padding: 20px;
+    background: #fff;
+    min-height: 300px;
+}
+
+.user-info {
+    background: #fff;
+    border-bottom: 1px solid @line-color-normal;
+    .avatar {
+        height: 60px;
+        width: 60px;
+        border-radius: 60px;
+        margin: 20px;
+    }
+}

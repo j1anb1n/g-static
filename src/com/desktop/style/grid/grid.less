@@ -1,0 +1,47 @@
+@smColWidth: 65px;
+@smColMargin: 10px;
+@lgColWidth: 80px;
+@lgColMargin: 10px;
+@cols: 12;
+
+.col(@cols, @width: 60px, @margin: 10px) {
+    float: left;
+    min-height: 1px;
+    margin-left: @margin;
+    margin-right: @margin;
+    width: (((@cols - 1) * (2 * @margin + @width)) + @width);
+}
+
+.row(@margin) {
+    margin-left: -1 * @margin;
+    margin-right: -1 * @margin;
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+.gen-cols(@n, @width, @margin, @i: 1) when (@i =< @n) {
+    .col-@{i} {
+        .col(@i, @width, @margin);
+    }
+    .gen-cols(@n, @width, @margin, (@i + 1));
+}
+.gen-container(@cols, @width, @margin) {
+    .container {
+        width: @cols * @width + 22 * @margin;
+    }
+}
+.gen-grid(@cols, @width, @margin) {
+    .row {
+        .row(@margin);
+    }
+    .gen-cols(@cols, @width, @margin);
+    .gen-container(@cols, @width, @margin);
+}
+
+.gen-grid(@cols, @smColWidth, @smColMargin);
+.lg-screen {
+    .gen-grid(@cols, @lgColWidth, @lgColMargin);
+}

@@ -1,0 +1,13 @@
+{
+    "input": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "files": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "output": [
+        "app/haorourou/widget/pin.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

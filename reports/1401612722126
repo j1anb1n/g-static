@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/detail.js"
+    ],
+    "files": [
+        "app/haorourou/page/detail.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/detail.js": "JSHINT: \n0. Missing semicolon.[line: 12, char:36][ECODE: W033]\n1. 'Widget' is not defined.[line: 6, char:5][ECODE: W117]\n2. '$' is not defined.[line: 9, char:28][ECODE: W117]\n3. 'Holder' is defined but never used.[line: 1, char:11][ECODE: W098]\n4. 'pin' is defined but never used.[line: 8, char:39][ECODE: W098]"
+    }
+}

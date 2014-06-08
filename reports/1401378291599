@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/style/less/icons.less"
+    ],
+    "files": [
+        "com/desktop/style/less/icons.less"
+    ],
+    "output": [
+        "g-version.json"
+    ],
+    "errors": {}
+}

@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'self' is not defined.[line: 20, char:56][ECODE: W117]\n1. 'self' is not defined.[line: 21, char:17][ECODE: W117]"
+    }
+}

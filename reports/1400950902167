@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/style/util/"
+    ],
+    "files": [
+        "com/desktop/style/util/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/util/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

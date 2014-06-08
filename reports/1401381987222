@@ -1,0 +1,16 @@
+{
+    "input": [
+        "com/desktop/style/fontawesome/less/variables.less"
+    ],
+    "files": [
+        "app/haorourou/style/index.less",
+        "com/desktop/style/fontawesome/less/font-awesome.less",
+        "com/desktop/style/fontawesome/less/variables.less"
+    ],
+    "output": [
+        "app/haorourou/style/index.css",
+        "com/desktop/style/fontawesome/less/font-awesome.css",
+        "g-version.json"
+    ],
+    "errors": {}
+}

@@ -1,0 +1,25 @@
+{
+    "input": [
+        "app/haorourou/style/index.less"
+    ],
+    "files": [
+        "app/haorourou/style/index.less"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/style/index.less": {
+            "type": "Parse",
+            "message": "Unrecognised input",
+            "filename": "/Users/chenjianbin/developer/g-static/src/app/haorourou/style/index.less",
+            "index": 952,
+            "line": 37,
+            "callLine": null,
+            "column": 16,
+            "extract": [
+                "                color: #d9d9d9;",
+                "                @{fa-css-prefix}-heart;",
+                "            }"
+            ]
+        }
+    }
+}

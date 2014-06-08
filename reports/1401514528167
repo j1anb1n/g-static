@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/lib/widget/widget.js"
+    ],
+    "files": [
+        "com/desktop/lib/widget/widget.js"
+    ],
+    "output": [
+        "com/desktop/lib/widget/widget.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

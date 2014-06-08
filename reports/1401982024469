@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "files": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/widget/pin.js": "JSHINT: \n0. 'margin' is defined but never used.[line: 52, char:45][ECODE: W098]"
+    }
+}

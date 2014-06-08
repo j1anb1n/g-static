@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/style/fonts/"
+    ],
+    "files": [
+        "com/desktop/style/fonts/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/fonts/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

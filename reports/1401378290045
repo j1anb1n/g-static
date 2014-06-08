@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/style/less/"
+    ],
+    "files": [
+        "com/desktop/style/less/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/less/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

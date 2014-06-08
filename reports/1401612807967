@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/detail.js"
+    ],
+    "files": [
+        "app/haorourou/page/detail.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/detail.js": "JSHINT: \n0. '$' is not defined.[line: 11, char:28][ECODE: W117]"
+    }
+}

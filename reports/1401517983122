@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'pinTpl' is defined but never used.[line: 2, char:11][ECODE: W098]\n1. 'config' is defined but never used.[line: 4, char:32][ECODE: W098]"
+    }
+}

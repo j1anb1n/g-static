@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Missing semicolon.[line: 35, char:33][ECODE: W033]\n1. Unexpected ')'.[line: 54, char:39][ECODE: E024]\n2. Expected an identifier and instead saw ')'.[line: 54, char:39][ECODE: E030]\n3. Expected ')' and instead saw 'Widget'.[line: 55, char:9][ECODE: W116]\n4. 'min' is not defined.[line: 70, char:33][ECODE: W117]\n5. 'min' is not defined.[line: 73, char:24][ECODE: W117]"
+    }
+}

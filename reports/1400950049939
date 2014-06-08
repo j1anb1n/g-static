@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/config.js"
+    ],
+    "files": [
+        "com/desktop/config.js",
+        "com/desktop/g.js"
+    ],
+    "output": [
+        "com/desktop/config.js",
+        "com/desktop/g.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

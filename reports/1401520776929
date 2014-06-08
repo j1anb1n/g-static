@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "files": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/model/model.js": "JSHINT: \n0. Missing semicolon.[line: 21, char:6][ECODE: W033]\n1. Missing semicolon.[line: 26, char:2][ECODE: W033]\n2. '$' is defined but never used.[line: 1, char:6][ECODE: W098]\n3. 'data' is defined but never used.[line: 3, char:21][ECODE: W098]\n4. 'self' is defined but never used.[line: 8, char:13][ECODE: W098]\n5. 'field' is defined but never used.[line: 9, char:50][ECODE: W098]\n6. 'config' is defined but never used.[line: 14, char:34][ECODE: W098]\n7. 'data' is defined but never used.[line: 15, char:26][ECODE: W098]\n8. 'config' is defined but never used.[line: 19, char:37][ECODE: W098]"
+    }
+}

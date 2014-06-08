@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/lib/model/"
+    ],
+    "files": [
+        "com/desktop/lib/model/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/model/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

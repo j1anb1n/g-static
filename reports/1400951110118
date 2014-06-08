@@ -1,0 +1,17 @@
+{
+    "input": [
+        "com/desktop/style/util/util.css"
+    ],
+    "files": [
+        "app/haorourou/style/base.less",
+        "app/haorourou/style/index.less",
+        "com/desktop/style/util/util.css"
+    ],
+    "output": [
+        "app/haorourou/style/base.css",
+        "app/haorourou/style/index.css",
+        "com/desktop/style/util/util.css",
+        "g-version.json"
+    ],
+    "errors": {}
+}

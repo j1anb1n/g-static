@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "files": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/widget/pin.js": "JSHINT: \n0. Missing semicolon.[line: 56, char:36][ECODE: W033]"
+    }
+}

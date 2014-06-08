@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/style/less/bordered-pulled.less"
+    ],
+    "files": [
+        "com/desktop/style/less/bordered-pulled.less"
+    ],
+    "output": [
+        "g-version.json"
+    ],
+    "errors": {}
+}

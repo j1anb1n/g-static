@@ -1,0 +1,37 @@
+{
+    "input": [],
+    "files": [
+        "app/haorourou/html/index.html",
+        "app/haorourou/style/index.less",
+        "com/desktop/config.js",
+        "com/desktop/g-config.json",
+        "com/desktop/g.js",
+        "com/desktop/lib/async/async.js",
+        "com/desktop/lib/holder/holder.js",
+        "com/desktop/lib/jquery/jquery-1.11.1.js",
+        "com/desktop/lib/jquery/jquery-2.1.1.js",
+        "com/desktop/lib/underscore/underscore-1.6.0.js",
+        "com/desktop/style/normalize/normalize.css",
+        "com/g/boot.js",
+        "com/g/config.js",
+        "com/g/deferred.js",
+        "com/g/es5-safe.js",
+        "com/g/json2.js",
+        "com/g/loader.js",
+        "com/g/loader/amd.js",
+        "com/g/loader/css.js",
+        "com/g/module.js",
+        "com/g/util.js"
+    ],
+    "output": [
+        "app/haorourou/html/index.html",
+        "app/haorourou/style/index.css",
+        "com/desktop/config.js",
+        "com/desktop/g-config.json",
+        "com/desktop/g.js",
+        "com/desktop/lib/async/async.js"
+    ],
+    "errors": {
+        "com/desktop/lib/holder/holder.js": "JSHINT: \n0. Expected 'var' to have an indentation at 5 instead at 1.[line: 12, char:1][ECODE: W015]\n1. Expected 'use_svg' to have an indentation at 9 instead at 5.[line: 13, char:5][ECODE: W015]\n2. Expected 'use_canvas' to have an indentation at 9 instead at 5.[line: 14, char:5][ECODE: W015]\n3. Expected 'use_fallback' to have an indentation at 9 instead at 5.[line: 15, char:5][ECODE: W015]\n4. Expected '}' to have an indentation at 5 instead at 1.[line: 16, char:1][ECODE: W015]\n5. Expected 'var' to have an indentation at 5 instead at 1.[line: 17, char:1][ECODE: W015]\n6. Expected 'var' to have an indentation at 5 instead at 1.[line: 18, char:1][ECODE: W015]\n7. Expected 'canvas' to have an indentation at 5 instead at 1.[line: 19, char:1][ECODE: W015]\n8. Expected 'var' to have an indentation at 5 instead at 1.[line: 20, char:1][ECODE: W015]\n9. Expected 'var' to have an indentation at 5 instead at 1.[line: 21, char:1][ECODE: W015]\n10. Expected 'if' to have an indentation at 5 instead at 1.[line: 23, char:1][ECODE: W015]\n11. Expected 'system_config' to have an indentation at 9 instead at 5.[line: 24, char:5][ECODE: W015]\n12. Expected '}' to have an indentation at 5 instead at 1.[line: 25, char:1][ECODE: W015]\n13. Expected 'if' to have an indentation at 9 instead at 5.[line: 26, char:5][ECODE: W015]\n14. Mixed double and single quotes.[line: 26, char:37][ECODE: W110]\n15. Mixed double and single quotes.[line: 27, char:34][ECODE: W110]\n16. Expected 'system_config' to have an indentation at 13 instead at 9.[line: 29, char:9][ECODE: W015]\n17. Expected '}' to have an indentation at 9 instead at 5.[line: 30, char:5][ECODE: W015]\n18. Expected 'var' to have an indentation at 13 instead at 9.[line: 31, char:9][ECODE: W015]\n19. Mixed double and single quotes.[line: 31, char:41][ECODE: W110]\n20. Expected '}' to have an indentation at 9 instead at 5.[line: 32, char:5][ECODE: W015]\n21. Expected '}' to have an indentation at 5 instead at 1.[line: 33, char:1][ECODE: W015]\n22. Expected 'if' to have an indentation at 5 instead at 1.[line: 35, char:1][ECODE: W015]\n23. Expected 'system_config' to have an indentation at 9 instead at 5.[line: 36, char:5][ECODE: W015]\n24. Expected 'system_config' to have an indentation at 9 instead at 5.[line: 37, char:5][ECODE: W015]\n25. Expected '}' to have an indentation at 5 instead at 1.[line: 38, char:1][ECODE: W015]\n26. Expected 'if' to have an indentation at 5 instead at 1.[line: 40, char:1][ECODE: W015]\n27. Expected 'dpr' to have an indentation at 9 instead at 5.[line: 41, char:5][ECODE: W015]\n28. 'ctx' used out of scope.[line: 42, char:11][ECODE: W038]\n29. 'ctx' used out of scope.[line: 42, char:47][ECODE: W038]\n30. 'ctx' used out of scope.[line: 42, char:80][ECODE: W038]\n31. 'ctx' used out of scope.[line: 42, char:112][ECODE: W038]\n32. 'ctx' used out of scope.[line: 42, char:143][ECODE: W038]\n33. Expected '}' to have an indentation at 5 instead at 1.[line: 43, char:1][ECODE: W015]\n34. Expected 'var' to have an indentation at 5 instead at 1.[line: 45, char:1][ECODE: W015]\n35. Expected 'var' to have an indentation at 5 instead at 1.[line: 47, char:1][ECODE: W015]\n36. Expected 'domain' to have an indentation at 9 instead at 5.[line: 48, char:5][ECODE: W015]\n37. Mixed double and single quotes.[line: 48, char:24][ECODE: W110]\n38. Expected 'images' to have an indentation at 9 instead at 5.[line: 49, char:5][ECODE: W015]\n39. Mixed double and single quotes.[line: 49, char:18][ECODE: W110]\n40. Expected 'bgnodes' to have an indentation at 9 instead at 5.[line: 50, char:5][ECODE: W015]\n41. Mixed double and single quotes.[line: 50, char:25][ECODE: W110]\n42. Expected 'themes' to have an indentation at 9 instead at 5.[line: 51, char:5][ECODE: W015]\n43. Mixed double and single quotes.[line: 52, char:15][ECODE: W110]\n44. Expected 'gray' to have an indentation at 13 instead at 9.[line: 52, char:9][ECODE: W015]\n45. Expected 'background' to have an indentation at 17 instead at 13.[line: 53, char:13][ECODE: W015]\n46. Mixed double and single quotes.[line: 53, char:31][ECODE: W110]\n47. Expected 'foreground' to have an indentation at 17 instead at 13.[line: 54, char:13][ECODE: W015]\n48. Mixed double and single quotes.[line: 54, char:31][ECODE: W110]\n49. Expected 'size' to have an indentation at 17 instead at 13.[line: 55, char:13][ECODE: W015]\n50. Too many errors. (8% scanned).[line: 55, char:13][ECODE: E043]\n"
+    }
+}

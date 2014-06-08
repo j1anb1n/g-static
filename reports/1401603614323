@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected ';' to have an indentation at 9 instead at 33.[line: 43, char:33][ECODE: W015]\n1. Expected '}' to match '{' from line 42 and instead saw ';'.[line: 43, char:33][ECODE: E020]\n2. Expected ')' and instead saw '}'.[line: 44, char:9][ECODE: W116]\n3. Missing semicolon.[line: 44, char:10][ECODE: W033]\n4. Expected ')' to have an indentation at 9 instead at 10.[line: 44, char:10][ECODE: W015]\n5. Expected an identifier and instead saw ')'.[line: 44, char:10][ECODE: E030]\n6. 'colIndex' is defined but never used.[line: 38, char:21][ECODE: W098]"
+    }
+}

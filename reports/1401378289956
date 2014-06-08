@@ -1,0 +1,16 @@
+{
+    "input": [
+        "com/desktop/style/fonts/fontawesome-webfont.eot"
+    ],
+    "files": [
+        "com/desktop/style/fonts/fontawesome-webfont.eot"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/fonts/fontawesome-webfont.eot": {
+            "errno": 34,
+            "code": "ENOENT",
+            "path": "/Users/chenjianbin/developer/g-static/src/com/desktop/style/fonts/fontawesome-webfont.eot"
+        }
+    }
+}

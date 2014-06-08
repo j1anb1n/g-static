@@ -1,0 +1,16 @@
+{
+    "input": [
+        "com/desktop/style/css/"
+    ],
+    "files": [
+        "com/desktop/style/css/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/css/": {
+            "errno": 34,
+            "code": "ENOENT",
+            "path": "/Users/chenjianbin/developer/g-static/src/com/desktop/style/css/"
+        }
+    }
+}

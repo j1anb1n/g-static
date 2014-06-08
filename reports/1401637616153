@@ -1,0 +1,15 @@
+{
+    "input": [
+        "app/haorourou/style/wiki/"
+    ],
+    "files": [
+        "app/haorourou/style/wiki/"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/style/wiki/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

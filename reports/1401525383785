@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected an identifier and instead saw '}'.[line: 37, char:5][ECODE: E030]\n1. Missing semicolon.[line: 36, char:14][ECODE: W033]\n2. 'config' is defined but never used.[line: 29, char:27][ECODE: W098]\n3. '$pin' is defined but never used.[line: 34, char:17][ECODE: W098]"
+    }
+}

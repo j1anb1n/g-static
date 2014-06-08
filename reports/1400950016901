@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/config.js"
+    ],
+    "files": [
+        "com/desktop/config.js",
+        "com/desktop/g.js"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/config.js": "JSHINT: \n0. Missing semicolon.[line: 5, char:2][ECODE: W033]"
+    }
+}

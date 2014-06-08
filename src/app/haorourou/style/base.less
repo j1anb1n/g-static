@@ -1,0 +1,101 @@
+@import (less) "com/desktop/style/normalize/normalize.css";
+@import (less) "com/desktop/style/util/util.css";
+@import (less) "com/desktop/style/grid/grid.less";
+@import (less) "./vars.less";
+
+@import (less) "com/desktop/style/fontawesome/less/font-awesome.less";
+
+html {
+    background-color: #fafafa;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.container.main {
+    margin-top: 30px;
+}
+
+header {
+    height: 60px;
+    width: 100%;
+    background: #13a479;
+    .logo {
+        height: 60px;
+        width: 140px;
+        float: left;
+    }
+    nav {
+        float: left;
+        line-height: 60px;
+        a {
+            height: 60px;
+            display: inline-block;
+            float: left;
+            text-decoration: none;
+            color: #fff;
+            font-size: 18px;
+            text-align: center;
+            &:hover {
+                background: #19976f;
+            }
+        }
+    }
+    .avatar {
+        margin: 12.5px;
+        width: 35px;
+        border-radius: 35px;
+    }
+    .search {
+        width: 100%;
+        position: relative;
+        input {
+            width: 100%;
+            height: 22px;
+            border: none;
+            line-height: 22px;
+            font-size: 13px;
+            padding: 5px 0;
+            margin: 14px 0;
+            background: #42b794;
+            &:focus {
+                outline: none;
+            }
+        }
+        i {
+            position: absolute;
+            right: 10px;
+            top: 22px;
+            color: @font-color-lightgray;
+        }
+    }
+}
+.icon {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.avatar {
+    width: 45px;
+    border-radius: 22.5px;
+}
+.btn {
+    border: 1px solid #e9e9e9;
+    height: 27px;
+    width: 70px;
+    background-color: #fff;
+    color: #888;
+    font-size: 12px;
+    line-height: 27px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}

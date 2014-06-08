@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+    <head>
+    <link rel="stylesheet" href="http://static.haorourou.com/app/haorourou/style/detail.css">
+    </head>
+<body>
+    <header class="clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-2">
+                    <img data-src="holder.js/180x60/text:haorourou" class="logo">
+                </div>
+                <div class="col-5">
+                    <nav class="row">
+                        <a class="col-1" href="#">百科</a>
+                        <a class="col-1" href="#">交易</a>
+                    </nav>
+                </div>
+                <div class="col-3">
+                    <div class="search">
+                        <input type="text">
+                        <i class="icon icon-search"></i>
+                    </div>
+                </div>
+                <div class="col-1">
+
+                </div>
+                <div class="col-1">
+                    <img class="avatar" data-src="holder.js/45x45/text:avatar" alt="">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main">
+        <div class="row">
+            <div class="col-8">
+                <section class="img">
+                    <img data-src="holder.js/780x500/sky/text:haorourou" alt="">
+                </section>
+                <section class="comment">
+
+                </section>
+            </div>
+            <div class="col-4">
+                <section class="user-info">
+                    <div class="row">
+                        <div class="col-1">
+                            <img data-src="holder.js/60x60/text:avatar" class="avatar" alt="">
+                        </div>
+                        <div class="col-2">
+                            <span class="username">j1anb1n</span>
+                        </div>
+                        <div class="col-1">
+                            <a href="javascript: void(0);" class="btn follow-btn">
+                                <i class="icon icon-plus"></i>加关注
+                            </a>
+                        </div>
+                    </div>
+                </section>
+                <section class="board">
+                    <div class="wraper">
+                        <div
+                            class="pins"
+                            id="pins"
+                            data-widget="app/haorourou/widget/pin.js"
+                            data-col-width="118"
+                            data-margin="0"
+                            data-cols="3"
+                        >
+
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <script src="http://static.haorourou.com/com/desktop/g.js"></script>
+    <script>
+
+    G.use('app/haorourou/page/detail.js', function (page) {
+        page.init();
+    });
+    </script>
+</body>
+</html>

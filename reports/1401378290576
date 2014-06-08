@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/style/less/larger.less"
+    ],
+    "files": [
+        "com/desktop/style/less/larger.less"
+    ],
+    "output": [
+        "g-version.json"
+    ],
+    "errors": {}
+}

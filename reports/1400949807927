@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/lib/holder/"
+    ],
+    "files": [
+        "com/desktop/lib/holder/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/holder/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

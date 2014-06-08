@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'min' is defined but never used.[line: 48, char:16][ECODE: W098]\n1. 'left' is defined but never used.[line: 49, char:17][ECODE: W098]"
+    }
+}

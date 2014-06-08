@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'i' is defined but never used.[line: 49, char:14][ECODE: W098]\n1. 'curr' is defined but never used.[line: 49, char:59][ECODE: W098]\n2. 'min' is defined but never used.[line: 49, char:53][ECODE: W098]"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/style/scss/_core.scss"
+    ],
+    "files": [
+        "com/desktop/style/scss/_core.scss"
+    ],
+    "output": [
+        "com/desktop/style/scss/_core.scss",
+        "g-version.json"
+    ],
+    "errors": {}
+}

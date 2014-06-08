@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'i' is not defined.[line: 52, char:25][ECODE: W117]\n1. 'i' is defined but never used.[line: 57, char:14][ECODE: W098]"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. 'curr' is not defined.[line: 57, char:24][ECODE: W117]\n1. 'index' is defined but never used.[line: 55, char:67][ECODE: W098]"
+    }
+}

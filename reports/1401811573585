@@ -1,0 +1,16 @@
+{
+    "input": [
+        "com/desktop/style/grid/grid.less"
+    ],
+    "files": [
+        "app/haorourou/style/base.less",
+        "app/haorourou/style/detail.less",
+        "app/haorourou/style/index.less",
+        "app/haorourou/style/wiki/list.less",
+        "com/desktop/style/grid/grid.less"
+    ],
+    "output": [
+        "g-version.json"
+    ],
+    "errors": {}
+}

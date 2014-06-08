@@ -1,0 +1,13 @@
+{
+    "input": [
+        "app/haorourou/page/detail.js"
+    ],
+    "files": [
+        "app/haorourou/page/detail.js"
+    ],
+    "output": [
+        "app/haorourou/page/detail.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

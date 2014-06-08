@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/style/fonts/fontawesome-webfont.woff"
+    ],
+    "files": [
+        "com/desktop/style/fonts/fontawesome-webfont.woff"
+    ],
+    "output": [
+        "com/desktop/style/fonts/fontawesome-webfont.woff",
+        "g-version.json"
+    ],
+    "errors": {}
+}

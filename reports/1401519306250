@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "files": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/model/model.js": "JSHINT: \n0. Missing semicolon.[line: 17, char:31][ECODE: W033]\n1. Missing semicolon.[line: 19, char:14][ECODE: W033]\n2. '_' is defined but never used.[line: 1, char:6][ECODE: W098]\n3. 'config' is defined but never used.[line: 8, char:42][ECODE: W098]\n4. 'callback' is defined but never used.[line: 12, char:50][ECODE: W098]\n5. 'query' is defined but never used.[line: 12, char:40][ECODE: W098]\n6. 'url' is defined but never used.[line: 17, char:12][ECODE: W098]\n7. 'query' is defined but never used.[line: 16, char:42][ECODE: W098]"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/lib/jquery/jquery-2.1.1.js"
+    ],
+    "files": [
+        "com/desktop/lib/jquery/jquery-2.1.1.js"
+    ],
+    "output": [
+        "com/desktop/lib/jquery/jquery-2.1.1.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

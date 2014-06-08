@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "files": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/widget/pin.js": "JSHINT: \n0. 'pinTpl' is not defined.[line: 18, char:22][ECODE: W117]\n1. 'data' is not defined.[line: 18, char:29][ECODE: W117]"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "input": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "files": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "output": [
+        "com/desktop/lib/model/model.js",
+        "g-version.json"
+    ],
+    "errors": {}
+}

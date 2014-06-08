@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected ';' to have an indentation at 9 instead at 71.[line: 43, char:71][ECODE: W015]\n1. Expected '}' to match '{' from line 42 and instead saw ';'.[line: 43, char:71][ECODE: E020]\n2. Expected ')' and instead saw 'top'.[line: 44, char:13][ECODE: W116]\n3. Missing semicolon.[line: 44, char:16][ECODE: W033]\n4. Expected ':' to have an indentation at 5 instead at 16.[line: 44, char:16][ECODE: W015]\n5. Expected '}' to match '{' from line 36 and instead saw ':'.[line: 44, char:16][ECODE: E020]\n6. Expected 'this' to have an indentation at 1 instead at 18.[line: 44, char:18][ECODE: W015]\n7. Expected '}' to match '{' from line 29 and instead saw 'this'.[line: 44, char:18][ECODE: E020]\n8. Expected ')' and instead saw '}'.[line: 45, char:9][ECODE: W116]\n9. Missing semicolon.[line: 45, char:10][ECODE: W033]\n10. Expected ')' to have an indentation at 1 instead at 10.[line: 45, char:10][ECODE: W015]\n11. Expected an identifier and instead saw ')'.[line: 45, char:10][ECODE: E030]\n12. Expected 'this' to have an indentation at 1 instead at 9.[line: 47, char:9][ECODE: W015]\n13. Expected 'console' to have an indentation at 1 instead at 9.[line: 49, char:9][ECODE: W015]\n14. Expected 'Widget' to have an indentation at 1 instead at 9.[line: 50, char:9][ECODE: W015]\n15. Expected '(end)' and instead saw '}'.[line: 51, char:5][ECODE: W116]\n16. 'i' is not defined.[line: 44, char:34][ECODE: W117]\n17. '$pin' is not defined.[line: 47, char:32][ECODE: W117]\n18. '$pin' is not defined.[line: 49, char:21][ECODE: W117]\n19. '$pin' is not defined.[line: 50, char:27][ECODE: W117]"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/detail.js"
+    ],
+    "files": [
+        "app/haorourou/page/detail.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/detail.js": "JSHINT: \n0. 'Widget' is not defined.[line: 6, char:5][ECODE: W117]\n1. 'pinTpl' is defined but never used.[line: 3, char:11][ECODE: W098]\n2. 'pinWidget' is defined but never used.[line: 6, char:48][ECODE: W098]\n3. 'pin' is defined but never used.[line: 8, char:39][ECODE: W098]"
+    }
+}

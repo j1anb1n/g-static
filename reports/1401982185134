@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "files": [
+        "app/haorourou/widget/pin.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/widget/pin.js": "JSHINT: \n0. 'colWidth' is not defined.[line: 59, char:32][ECODE: W117]\n1. 'margin' is not defined.[line: 60, char:30][ECODE: W117]"
+    }
+}

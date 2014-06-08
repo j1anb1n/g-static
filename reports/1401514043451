@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/lib/widget/"
+    ],
+    "files": [
+        "com/desktop/lib/widget/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/widget/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

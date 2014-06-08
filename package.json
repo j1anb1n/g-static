@@ -1,0 +1,27 @@
+{
+  "name": "G-static",
+  "description": "the Next Generation Web Front-end Solution",
+  "version": "0.1.0",
+  "author": {
+    "name": "chenjianbin",
+    "email": "chenjianbin@ganji.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.corp.ganji.com/wf/ng-static"
+  },
+  "bugs": {
+    "url": "http://git.corp.ganji.com/wf/ng-static/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "g-builder": ">=0.3.9",
+    "grunt": "*",
+    "minimatch": "~0.2.14",
+    "async": "*",
+    "minimatch": "*"
+  },
+  "keywords": []
+}

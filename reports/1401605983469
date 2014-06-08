@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/page/index.js"
+    ],
+    "files": [
+        "app/haorourou/page/index.js"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/page/index.js": "JSHINT: \n0. Expected an identifier and instead saw '}'.[line: 101, char:13][ECODE: E030]\n1. Expected ')' to have an indentation at 13 instead at 14.[line: 101, char:14][ECODE: W015]\n2. Expected '}' to match '{' from line 99 and instead saw ')'.[line: 101, char:14][ECODE: E020]\n3. Expected ')' and instead saw 'console'.[line: 102, char:13][ECODE: W116]\n4. 'pos' is defined but never used.[line: 98, char:20][ECODE: W098]"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/style/css/font-awesome.css"
+    ],
+    "files": [
+        "com/desktop/style/css/font-awesome.css"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/css/font-awesome.css": {}
+    }
+}

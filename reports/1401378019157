@@ -1,0 +1,26 @@
+{
+    "input": [
+        "app/haorourou/style/base.less"
+    ],
+    "files": [
+        "app/haorourou/style/base.less",
+        "app/haorourou/style/index.less"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/style/base.less": {
+            "type": "Parse",
+            "message": "Unrecognised input",
+            "filename": "input",
+            "index": 703,
+            "line": 42,
+            "callLine": null,
+            "column": 4,
+            "extract": [
+                "    height: 27px;",
+                "    width; 70px;",
+                "    background-color: #fff;"
+            ]
+        }
+    }
+}

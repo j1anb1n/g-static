@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "files": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/model/model.js": "JSHINT: \n0. '_' is defined but never used.[line: 1, char:6][ECODE: W098]\n1. 'config' is defined but never used.[line: 7, char:42][ECODE: W098]"
+    }
+}

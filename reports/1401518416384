@@ -1,0 +1,15 @@
+{
+    "input": [
+        "app/haorourou/model/"
+    ],
+    "files": [
+        "app/haorourou/model/"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/model/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

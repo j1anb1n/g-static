@@ -1,0 +1,15 @@
+{
+    "input": [
+        "com/desktop/style/grid/"
+    ],
+    "files": [
+        "com/desktop/style/grid/"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/style/grid/": {
+            "errno": 28,
+            "code": "EISDIR"
+        }
+    }
+}

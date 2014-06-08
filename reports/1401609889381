@@ -1,0 +1,25 @@
+{
+    "input": [
+        "app/haorourou/style/detail.less"
+    ],
+    "files": [
+        "app/haorourou/style/detail.less"
+    ],
+    "output": [],
+    "errors": {
+        "app/haorourou/style/detail.less": {
+            "type": "Parse",
+            "message": "Unrecognised input",
+            "filename": "/Users/chenjianbin/developer/g-static/src/app/haorourou/style/detail.less",
+            "index": 405,
+            "line": 19,
+            "callLine": null,
+            "column": 4,
+            "extract": [
+                ".pin {",
+                "    width; 90;",
+                "    margin-left: 10px;"
+            ]
+        }
+    }
+}

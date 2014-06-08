@@ -1,0 +1,12 @@
+{
+    "input": [
+        "app/haorourou/style/detail.less"
+    ],
+    "files": [
+        "app/haorourou/style/detail.less"
+    ],
+    "output": [
+        "g-version.json"
+    ],
+    "errors": {}
+}

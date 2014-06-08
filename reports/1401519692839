@@ -1,0 +1,12 @@
+{
+    "input": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "files": [
+        "com/desktop/lib/model/model.js"
+    ],
+    "output": [],
+    "errors": {
+        "com/desktop/lib/model/model.js": "JSHINT: \n0. Missing semicolon.[line: 13, char:30][ECODE: W033]\n1. Expected '}' to have an indentation at 5 instead at 9.[line: 34, char:9][ECODE: W015]\n2. '_' is defined but never used.[line: 1, char:6][ECODE: W098]\n3. 'config' is defined but never used.[line: 8, char:42][ECODE: W098]"
+    }
+}
