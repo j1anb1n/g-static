@@ -35,10 +35,10 @@
     <div class="container main">
         <section class="filter-section">
             <div class="row filter-row">
-                <div class="col-1">
+                <div class="col-2">
                     <span class="filter-title">科目</span>
                 </div>
-                <div class="col-11">
+                <div class="col-10">
                     <ul class="filter-options">
                         <li><a href="#" class="active">景天科</a></li>
                         <li><a href="#">景天科</a></li>
@@ -54,10 +54,10 @@
                 </div>
             </div>
             <div class="row filter-row">
-                <div class="col-1">
-                    <span class="filter-title">种植难易</span>
+                <div class="col-2">
+                    <span class="filter-title">科目</span>
                 </div>
-                <div class="col-11">
+                <div class="col-10">
                     <ul class="filter-options">
                         <li><a href="#" class="active">景天科</a></li>
                         <li><a href="#">景天科</a></li>
@@ -73,10 +73,10 @@
                 </div>
             </div>
             <div class="row filter-row">
-                <div class="col-1">
-                    <span class="filter-title">生长季节</span>
+                <div class="col-2">
+                    <span class="filter-title">科目</span>
                 </div>
-                <div class="col-11">
+                <div class="col-10">
                     <ul class="filter-options">
                         <li><a href="#" class="active">景天科</a></li>
                         <li><a href="#">景天科</a></li>
@@ -91,14 +91,25 @@
                     </ul>
                 </div>
             </div>
-
+            <div class="filter-row current-filter">
+                <span class="filter-option">景天科<a href="#"><i class="icon icon-times"></i></a></span>
+            </div>
+        </section>
+        <section class="list-section">
+            <div class="row">
+                <div class="col-4">
+                    <div class="img">
+                        <img data-src="holder.js/100%x280/text:avatar" alt="">
+                    </div>
+                </div>
+            </div>
         </section>
     </div>
 
     <script src="http://static.haorourou.com/com/desktop/g.js"></script>
     <script>
 
-    G.use('app/haorourou/page/base.js', function (page) {
+    G.use('app/haorourou/page/wiki/list.js', function (page) {
         page.init();
     });
     </script>
